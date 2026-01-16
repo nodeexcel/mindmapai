@@ -89,9 +89,3 @@ We welcome contributions! Please follow these steps:
 3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/nodeexcel/mindmapai/LICENSE) file for details.
-
-## Acknowledgments
-- Special thanks to the contributors and the open-source community for their support and resources.
